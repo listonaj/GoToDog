@@ -1,4 +1,4 @@
-package Dog
+package dog
 
 import (
 	"strings"
